@@ -1,2 +1,3 @@
-# MY-JAVASCRIPT-LEARNING.-
-Certainly! Here's a description you can use for your GitHub projects:  ---  ## My JavaScript Learning Journey  As part of my journey to master JavaScript, I've been working on several exciting projects that showcase my growing skills and understanding of the language. Below are some of the projects .
+# JavaScript Complete YouTube
+
+![JavaScript Thumbnail](https://github.com/KG-Coding-with-Prashant-Sir/JavaScript_Complete_YouTube/assets/102736197/b969122e-5c69-4a81-8cb8-8252c2a47446)
